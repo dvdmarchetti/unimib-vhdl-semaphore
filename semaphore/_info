@@ -1,0 +1,875 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/Semaforo4
+Ecounter
+Z0 w1599317941
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore
+Z6 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/counter.vhd
+Z7 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/counter.vhd
+l0
+L7
+VTiBKBHHaYH<A_@P`_B<Re0
+!s100 ASXHG^>ENk2UfYD:TEeoR3
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1600024700
+!i10b 1
+Z10 !s108 1600024700.000000
+Z11 !s90 -reportprogress|300|-work|semaphore|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/counter.vhd|
+Z12 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/counter.vhd|
+!i113 1
+Z13 o-work semaphore -2002 -explicit -O0
+Z14 tExplicit 1
+Acounter_behavior
+R1
+R2
+R3
+R4
+DEx4 work 7 counter 0 22 TiBKBHHaYH<A_@P`_B<Re0
+l23
+L19
+VKn>bOU[=36OU92?@j5W:<0
+!s100 BV`6eV;YTEVhio0;kkD<i2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Einput_controller
+Z15 w1599483915
+Z16 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R5
+Z17 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/input_controller.vhd
+Z18 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/input_controller.vhd
+l0
+L6
+V8=`QbfPMk^NCK`KNeeL:_2
+!s100 ]Wj6D4IGB4fL5zznWfRmY1
+R8
+32
+Z19 !s110 1599483918
+!i10b 1
+Z20 !s108 1599483918.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/input_controller.vhd|
+Z22 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/input_controller.vhd|
+!i113 1
+Z23 o-work work -2002 -explicit -O0
+R14
+Ainput_controller_behaviour
+R16
+R3
+R4
+DEx4 work 16 input_controller 0 22 8=`QbfPMk^NCK`KNeeL:_2
+l16
+L14
+VfdFj=J^kMlHBQbKW30[FT2
+!s100 G?2zPmh98PUa1dOlTcTAK1
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R23
+R14
+Elight_controller
+Z24 w1600015448
+R16
+R3
+R4
+R5
+Z25 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/light_controller.vhd
+Z26 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/light_controller.vhd
+l0
+L6
+V]4d:W7Z?YoAe;[jBPL9lf0
+!s100 >n3L_D@5Pn[:Lj[C4i8dW1
+R8
+32
+R9
+!i10b 1
+R10
+Z27 !s90 -reportprogress|300|-work|semaphore|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/light_controller.vhd|
+Z28 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/light_controller.vhd|
+!i113 1
+R13
+R14
+Alight_controller_behaviour
+R16
+R3
+R4
+DEx4 work 16 light_controller 0 22 ]4d:W7Z?YoAe;[jBPL9lf0
+l50
+L24
+VS<2C3JH7G=CVWCMjgC8Rk0
+!s100 f;JO[6jVJ^dEa_W:?9B=m0
+R8
+32
+R9
+!i10b 1
+R10
+R27
+R28
+!i113 1
+R13
+R14
+Emaintenance_mode_controller
+Z29 w1599161848
+R16
+R3
+R4
+R5
+Z30 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/maintenance_mode_controller.vhd
+Z31 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/maintenance_mode_controller.vhd
+l0
+L6
+V5?hLSJ_lUO>1R[oJM8]Aj0
+!s100 AYkJM6@GVj3M`lZ;GmjHK0
+R8
+32
+Z32 !s110 1599163784
+!i10b 1
+Z33 !s108 1599163784.000000
+Z34 !s90 -reportprogress|300|-work|semaphore|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/maintenance_mode_controller.vhd|
+Z35 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/maintenance_mode_controller.vhd|
+!i113 1
+R13
+R14
+Amaintenance_mode_controller_behaviour
+R16
+R3
+R4
+DEx4 work 27 maintenance_mode_controller 0 22 5?hLSJ_lUO>1R[oJM8]Aj0
+l25
+L18
+V0GRkKcZzUd=oIkG>JiIYa1
+!s100 MV0J[XKUkBP69LoXdJYGf0
+R8
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R13
+R14
+Eoperating_condition
+Z36 w1599156041
+R16
+R3
+R4
+R5
+Z37 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operating_condition.vhd
+Z38 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operating_condition.vhd
+l0
+L6
+V1jJOG3G=`11JH^LG`?`9P2
+!s100 M<H9cR:j1;z;<H2gnRR>=2
+R8
+32
+Z39 !s110 1599161359
+!i10b 1
+Z40 !s108 1599161359.000000
+Z41 !s90 -reportprogress|300|-work|semaphore|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operating_condition.vhd|
+Z42 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operating_condition.vhd|
+!i113 1
+R13
+R14
+Aoperating_condition_behaviour
+R16
+R3
+R4
+DEx4 work 19 operating_condition 0 22 1jJOG3G=`11JH^LG`?`9P2
+l24
+L17
+VEKZ@Mll6UbYTYV>JV]GDc2
+!s100 Kjhh<fg=fHNW>]0Gh0VK83
+R8
+32
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R13
+R14
+Eoperational_mode_controller
+Z43 w1600016199
+R16
+R3
+R4
+R5
+Z44 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operational_mode_controller.vhd
+Z45 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operational_mode_controller.vhd
+l0
+L6
+V=5;LbZ>9jzzzEj7NOn]Z42
+!s100 @B]QnzfFSiPIT=3PDEMW;2
+R8
+32
+R9
+!i10b 1
+R10
+Z46 !s90 -reportprogress|300|-work|semaphore|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operational_mode_controller.vhd|
+Z47 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operational_mode_controller.vhd|
+!i113 1
+R13
+R14
+Aoperational_mode_controller_behaviour
+R16
+R3
+R4
+DEx4 work 27 operational_mode_controller 0 22 =5;LbZ>9jzzzEj7NOn]Z42
+l26
+L19
+VCeIn>h^2P=781NZ1>dhV_1
+!s100 VFCbkocgl[>d=a<>?;`_D3
+R8
+32
+R9
+!i10b 1
+R10
+R46
+R47
+!i113 1
+R13
+R14
+Eoperational_mode_switcher
+Z48 w1599483491
+R16
+R3
+R4
+R5
+R17
+R18
+l0
+L6
+VW6J2<Qk?de3dVTJ@O=59P0
+!s100 _kW?aP4B^gAMKK[aDlM_^2
+R8
+32
+Z49 !s110 1599483557
+!i10b 1
+Z50 !s108 1599483557.000000
+R21
+R22
+!i113 1
+R23
+R14
+Aoperational_mode_switcher_behaviour
+R16
+R3
+R4
+DEx4 work 25 operational_mode_switcher 0 22 3nfAH;lSk19I_b`;:nKi43
+l18
+L14
+Vg05>GL<z@K27@9J=<8UO:1
+!s100 [GCMUDR`@DzT]Oozc`[bo2
+R8
+32
+!s110 1599476377
+!i10b 1
+!s108 1599476377.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operational_mode_switcher.vhd|
+!s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operational_mode_switcher.vhd|
+!i113 1
+R23
+R14
+FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operational_mode_switcher.vhd
+8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/operational_mode_switcher.vhd
+Esemaphore
+Z51 w1600024244
+R16
+R3
+R4
+R5
+Z52 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/semaphore.vhd
+Z53 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/semaphore.vhd
+l0
+L6
+VEFPS>iQ[7XLhA8?`JYYM03
+!s100 :3c?daDk>1V:IXLK:@ak_3
+R8
+32
+R9
+!i10b 1
+Z54 !s108 1600024699.000000
+Z55 !s90 -reportprogress|300|-work|semaphore|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/semaphore.vhd|
+Z56 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/semaphore.vhd|
+!i113 1
+R13
+R14
+Asemaphore_behaviour
+R16
+R3
+R4
+DEx4 work 9 semaphore 0 22 EFPS>iQ[7XLhA8?`JYYM03
+l77
+L19
+V0lW6CP60B`jQH9LWj>lkW0
+!s100 Uibn25E_RV>ZzjeJYS:<E3
+R8
+32
+R9
+!i10b 1
+R54
+R55
+R56
+!i113 1
+R13
+R14
+Estandby_condition
+Z57 w1599155691
+R16
+R3
+R4
+R5
+Z58 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/maintenance_condition.vhd
+Z59 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/maintenance_condition.vhd
+l0
+L6
+VXd18`gGRnCdTW?BilE5X60
+!s100 C[^:IPe[EU?dGN87K?lB43
+R8
+32
+R39
+!i10b 1
+R40
+Z60 !s90 -reportprogress|300|-work|semaphore|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/maintenance_condition.vhd|
+Z61 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/maintenance_condition.vhd|
+!i113 1
+R13
+R14
+Astandby_condition_behaviour
+R16
+R3
+R4
+DEx4 work 17 standby_condition 0 22 Xd18`gGRnCdTW?BilE5X60
+l25
+L18
+VDZ3_b4DdBEATI`iSFBcg^1
+!s100 C<5U?]z?VUFACo<H9i<0?0
+R8
+32
+R39
+!i10b 1
+R40
+R60
+R61
+!i113 1
+R13
+R14
+Estandby_mode_controller
+Z62 w1599518357
+R16
+R3
+R4
+R5
+Z63 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/standby_mode_controller.vhd
+Z64 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/standby_mode_controller.vhd
+l0
+L6
+VYQofi[MQ6=iX=>5T8_DYX1
+!s100 ]FGC08a^BLHe5B2JBR6Q`3
+R8
+32
+R9
+!i10b 1
+R10
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/standby_mode_controller.vhd|
+Z66 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/standby_mode_controller.vhd|
+!i113 1
+R23
+R14
+Astandby_mode_controller_behaviour
+R16
+R3
+R4
+DEx4 work 23 standby_mode_controller 0 22 YQofi[MQ6=iX=>5T8_DYX1
+l40
+L20
+Vi`kmVaz4Yo^oNN8d1ij[B1
+!s100 dQBH3P`^dB=]HjDnCc_kO3
+R8
+32
+R9
+!i10b 1
+R10
+R65
+R66
+!i113 1
+R23
+R14
+Etb_counter
+Z67 w1599162411
+R16
+R3
+R4
+R5
+Z68 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_counter.vhd
+Z69 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_counter.vhd
+l0
+L6
+VZmHRlEb2lWN9>1bhh5mlC1
+!s100 nBCM1c?W[MZ=hMgcoCG=62
+R8
+32
+R9
+!i10b 1
+R10
+Z70 !s90 -reportprogress|300|-work|semaphore|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_counter.vhd|
+Z71 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_counter.vhd|
+!i113 1
+R13
+R14
+Atb_counter_behaviour
+R16
+R3
+R4
+DEx4 work 10 tb_counter 0 22 ZmHRlEb2lWN9>1bhh5mlC1
+l25
+L9
+VUBiN06TO6IX:JO]iFN6lB3
+!s100 1GZ?H;T;k:NR;W;BI^VHa1
+R8
+32
+R9
+!i10b 1
+R10
+R70
+R71
+!i113 1
+R13
+R14
+Etb_input_controller
+Z72 w1599483569
+R16
+R3
+R4
+R5
+Z73 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_input_controller.vhd
+Z74 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_input_controller.vhd
+l0
+L6
+V;`zdm966L4W3A9k]`IKd?3
+!s100 <84Z^SnNdf:m@SdnVXhEL3
+R8
+32
+R19
+!i10b 1
+R20
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_input_controller.vhd|
+Z76 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_input_controller.vhd|
+!i113 1
+R23
+R14
+Atb_input_controller_behaviour
+R16
+R3
+R4
+DEx4 work 19 tb_input_controller 0 22 ;`zdm966L4W3A9k]`IKd?3
+l23
+L9
+VRGGNlB41jaFOcL;I:D1WD2
+!s100 [84TbQN`RCGYe2VW4J1AY2
+R8
+32
+R19
+!i10b 1
+R20
+R75
+R76
+!i113 1
+R23
+R14
+Etb_light_controller
+Z77 w1599413839
+R16
+R3
+R4
+R5
+Z78 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller.vhd
+Z79 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller.vhd
+l0
+L6
+VhLHcO4g_gF`S57;OYB<X80
+!s100 2UIKPgc3d6UdY:7BIJX@`3
+R8
+32
+R9
+!i10b 1
+R10
+Z80 !s90 -reportprogress|300|-work|semaphore|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller.vhd|
+Z81 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller.vhd|
+!i113 1
+R13
+R14
+Atb_light_controller_behaviour
+R16
+R3
+R4
+DEx4 work 19 tb_light_controller 0 22 hLHcO4g_gF`S57;OYB<X80
+l39
+L9
+V7R`fE9nB8PYn33gK9V9GO3
+!s100 `M?B^L@j]aDlb9<JdKbn[2
+R8
+32
+R9
+!i10b 1
+R10
+R80
+R81
+!i113 1
+R13
+R14
+Etb_light_controller_nominal
+Z82 w1599413846
+R16
+R3
+R4
+R5
+Z83 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller_nominal.vhd
+Z84 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller_nominal.vhd
+l0
+L6
+Vc?AU;9UOFbAPM^WhjTPa53
+!s100 _o:6Q5_g0hM6dozM`nzYf3
+R8
+32
+R9
+!i10b 1
+R10
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller_nominal.vhd|
+Z86 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller_nominal.vhd|
+!i113 1
+R23
+R14
+Atb_light_controller_nominal_behaviour
+R16
+R3
+R4
+DEx4 work 27 tb_light_controller_nominal 0 22 c?AU;9UOFbAPM^WhjTPa53
+l32
+L9
+VRhfm;aWNLmBb`O`I5CZN31
+!s100 >ZlhN8z`>0WC0mhSg^O0o2
+R8
+32
+R9
+!i10b 1
+R10
+R85
+R86
+!i113 1
+R23
+R14
+Etb_light_controller_standby
+Z87 w1599406175
+R16
+R3
+R4
+R5
+Z88 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller_standby.vhd
+Z89 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller_standby.vhd
+l0
+L6
+VI8a7P7VMeLZPB<:kil8m52
+!s100 7:i>Elb8Ene:Hbk]c6X]I1
+R8
+32
+R9
+!i10b 1
+R10
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller_standby.vhd|
+Z91 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_light_controller_standby.vhd|
+!i113 1
+R23
+R14
+Atb_light_controller_standby_behaviour
+R16
+R3
+R4
+DEx4 work 27 tb_light_controller_standby 0 22 I8a7P7VMeLZPB<:kil8m52
+l35
+L9
+VJN;KZlbS:z3<c@3I2@7m:1
+!s100 S33TWYHOAh9>PlNIN:YWF2
+R8
+32
+R9
+!i10b 1
+R10
+R90
+R91
+!i113 1
+R23
+R14
+Etb_operational_mode_controller
+Z92 w1599486530
+R16
+R3
+R4
+R5
+Z93 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_operational_mode_controller.vhd
+Z94 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_operational_mode_controller.vhd
+l0
+L6
+V0_[QYOd?1iMSY5QQC0lVc3
+!s100 O2KK7ozSPVFESRaf58`]c2
+R8
+32
+R9
+!i10b 1
+R10
+Z95 !s90 -reportprogress|300|-work|semaphore|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_operational_mode_controller.vhd|
+Z96 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_operational_mode_controller.vhd|
+!i113 1
+R13
+R14
+Atb_operational_mode_controller_behaviour
+R16
+R3
+R4
+DEx4 work 30 tb_operational_mode_controller 0 22 0_[QYOd?1iMSY5QQC0lVc3
+l40
+L9
+V:2Oc9_40P>L5]<;b`zf[A0
+!s100 NhWE=0JWG0^P1S]fB53=^2
+R8
+32
+R9
+!i10b 1
+R10
+R95
+R96
+!i113 1
+R13
+R14
+Etb_operational_mode_switcher
+Z97 w1599483536
+R16
+R3
+R4
+R5
+R73
+R74
+l0
+L6
+VY<0`7n^f_gHg[Q1E7B`]k3
+!s100 1L=4lTXkbzkVI72ODYlBK2
+R8
+32
+R49
+!i10b 1
+R50
+R75
+R76
+!i113 1
+R23
+R14
+Atb_operational_mode_switcher_behaviour
+R16
+R3
+R4
+DEx4 work 28 tb_operational_mode_switcher 0 22 Y<0`7n^f_gHg[Q1E7B`]k3
+l23
+L9
+V;ZdbJhX9[maQ>V>nkgYgF3
+!s100 Ommc>G<[@b6N[:Z@RciM@2
+R8
+32
+R49
+!i10b 1
+R50
+R75
+R76
+!i113 1
+R23
+R14
+Etb_semaphore
+Z98 w1600016881
+R16
+R3
+R4
+R5
+Z99 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore.vhd
+Z100 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore.vhd
+l0
+L6
+VOP_9Z[>6n`kiZl]T8WkB22
+!s100 NXf=TZKc5h[H:@357aUl:2
+R8
+32
+R9
+!i10b 1
+R10
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore.vhd|
+Z102 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore.vhd|
+!i113 1
+R23
+R14
+Atb_semaphore_behaviour
+R16
+R3
+R4
+DEx4 work 12 tb_semaphore 0 22 OP_9Z[>6n`kiZl]T8WkB22
+l33
+L9
+ViSZ@K00jGooAneT@[f;9^3
+!s100 QJBNM0k0OoReZh@LcDz`?0
+R8
+32
+R9
+!i10b 1
+R10
+R101
+R102
+!i113 1
+R23
+R14
+Etb_semaphore_enable_reset
+Z103 w1600024854
+R16
+R3
+R4
+R5
+Z104 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore_enable_reset.vhd
+Z105 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore_enable_reset.vhd
+l0
+L6
+V9@jlI`n^AIS[ClJZ8JL]k3
+!s100 QbYiQPH9FAMj@PKX`4jBa0
+R8
+32
+Z106 !s110 1600024857
+!i10b 1
+Z107 !s108 1600024857.000000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore_enable_reset.vhd|
+Z109 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore_enable_reset.vhd|
+!i113 1
+R23
+R14
+Atb_semaphore_enable_reset_behaviour
+R16
+R3
+R4
+Z110 DEx4 work 25 tb_semaphore_enable_reset 0 22 9@jlI`n^AIS[ClJZ8JL]k3
+l35
+L9
+Vm5glgohGzT=@l`ClY1JO:1
+!s100 VVjXzU8U]8gnIcd;OhL`X1
+R8
+32
+R106
+!i10b 1
+R107
+R108
+R109
+!i113 1
+R23
+R14
+Etb_semaphore_standby
+Z111 w1600016873
+R16
+R3
+R4
+R5
+Z112 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore_standby.vhd
+Z113 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore_standby.vhd
+l0
+L6
+VzAZB^OF>I;BFM@Q6EV4>U2
+!s100 0j_9d[2O5>97KemZ]P]NH1
+R8
+32
+R9
+!i10b 1
+R10
+Z114 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore_standby.vhd|
+Z115 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_semaphore_standby.vhd|
+!i113 1
+R23
+R14
+Atb_semaphore_standby_behaviour
+R16
+R3
+R4
+DEx4 work 20 tb_semaphore_standby 0 22 zAZB^OF>I;BFM@Q6EV4>U2
+l33
+L9
+VFlU;Dj:?eh2HR]1Q^>@G52
+!s100 h2nkG6Y0HNhTE[JYJPWE@0
+R8
+32
+R9
+!i10b 1
+R10
+R114
+R115
+!i113 1
+R23
+R14
+Etb_standby_mode_controller
+Z116 w1599413821
+R16
+R3
+R4
+R5
+Z117 8H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_standby_mode_controller.vhd
+Z118 FH:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_standby_mode_controller.vhd
+l0
+L6
+Vc<GAUe]OK_^DRXKB`BY;f0
+!s100 zgGh`;Tcboz0<]KVOPXHz2
+R8
+32
+R9
+!i10b 1
+R10
+Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_standby_mode_controller.vhd|
+Z120 !s107 H:/Archivio/Scuola/UniLM/Corsi/Informatica Industriale/vhdl-semaphore/tb_standby_mode_controller.vhd|
+!i113 1
+R23
+R14
+Atb_standby_mode_controller_behaviour
+R16
+R3
+R4
+DEx4 work 26 tb_standby_mode_controller 0 22 c<GAUe]OK_^DRXKB`BY;f0
+l42
+L9
+VjbSOzAdAP7>1R9VacFdYk1
+!s100 BLKi?Td42bo`Yn^mARH_O3
+R8
+32
+R9
+!i10b 1
+R10
+R119
+R120
+!i113 1
+R23
+R14
